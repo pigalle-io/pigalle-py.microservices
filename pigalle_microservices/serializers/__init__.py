@@ -1,0 +1,2 @@
+
+import pigalle_microservices.serializers.json

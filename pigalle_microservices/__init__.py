@@ -1,0 +1,4 @@
+from .microservice import Microservice
+
+import pigalle_microservices.transporters
+import pigalle_microservices.serializers
